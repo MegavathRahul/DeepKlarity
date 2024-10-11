@@ -27,3 +27,4 @@ To test the API endpoints using Postman:
   - [Link to Video](#) *(If uploaded online)*
   - Demonstrates the API endpoints in action using Postman.
 
+![image](https://github.com/user-attachments/assets/5b6ea6ac-7d03-46ed-b223-d7e7c1594428)
